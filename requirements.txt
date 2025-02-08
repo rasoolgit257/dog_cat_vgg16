@@ -1,0 +1,8 @@
+flask-cors==5.0.0
+importlib-metadata==8.0.0
+jaraco.collections==5.1.0
+pillow==11.1.0
+platformdirs==4.2.2
+tensorflow==2.18.0
+tomli==2.0.1
+gunicorn
